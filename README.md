@@ -1,5 +1,5 @@
-# Potamilus Ecology and Evolution 
-Molecular data for Smith et al. 2021 - Establishing conservation units to promote recovery of two threatened freshwater mussel species (Bivalvia: Unionida: Potamilus)
+# Molecular data and scripts from Smith et al. 2021
+Smith et al. 2021 - Establishing conservation units to promote recovery of two threatened freshwater mussel species (Bivalvia: Unionida: Potamilus). Ecology and Evolution
 
 Information about files:
 **amponly_ind_assignments.csv** - Designations to create the dataframe for P. amphichaenus only 
